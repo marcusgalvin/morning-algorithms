@@ -6,5 +6,5 @@ const DNA_MAP = { A: "T", T: "A", G: "C", C: "G" };
 function pairElement(str) {
   return str.split("").map(dna => [dna, DNA_MAP[dna]]);
 }
-// end testing result
+// end testing results
 pairElement("GCG");

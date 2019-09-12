@@ -1,3 +1,7 @@
+//declare a starting hour
+//declare an amt of hours passed
+//print out how many days and hours have passed, once use delcare the above ints
+
 #include <stdio.h>
 #include <math.h>
 
@@ -17,7 +21,7 @@ int main()
 
   //turn the two iterations into arrays and concatonate them
 
-  printf("%d", nightHours + morningHours);
+  
 
   return 0;
 }

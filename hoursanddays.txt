@@ -1,0 +1,9 @@
+1. delcare a starting hour, i.e 5
+2. delcare an amt of hours passed
+
+
+clock that counts 1-12 *2
+
+if the hour increases by 1, so does the time
+
+
